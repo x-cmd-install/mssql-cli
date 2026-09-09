@@ -7,7 +7,7 @@ about:
   latestVersion: "1.0"
   latestRelease: "1.0"
   latestPrerelease: "0.18.1"
-  collectedAt: 2026-09-09T04:46:53Z
+  collectedAt: 2026-09-09T19:06:49Z
 timeline:
   created: 2017-10-13
   lastCommit: 2023-04-11
@@ -87,7 +87,7 @@ total:
   commit: 402
 ---
 path: /home/runner/.x-repo/github.com/dbcli/mssql-cli
-collectedAt: 2026-09-09T04:47:11Z
+collectedAt: 2026-09-09T19:07:06Z
 loc:
   Python:
     code: 11170
