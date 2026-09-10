@@ -1,0 +1,73 @@
+# mssql-cli
+
+[English version](./README.md)
+
+A command-line client for SQL Server with auto-completion and syntax highlighting
+
+![mssql-cli](https://repo.x-cmd.io/mssql-cli.svg)
+
+## 安装
+
+```sh
+x install mssql-cli
+```
+
+## 源代码
+
+- **上游仓库**: <https://github.com/dbcli/mssql-cli>
+- **许可证**: BSD-3-Clause
+
+## 发布
+
+- **最新版本**: `1.0` (2020-05-01)
+- **最近提交**: 2023-04-11
+- **发布时间**: 2020-05-01T02:07:07Z
+
+## 流行度
+
+- **Star**: 1,416 · **Fork**: 191 · **开放 issue**: 321 · **贡献者**: 47
+
+## 累计统计
+
+- **发布数**: 9 · **已合并 PR**: 215 · **开放 PR**: 13 · **已关闭 issue**: 172 · **开放 issue**: 149 · **提交数**: 402
+
+## 最近活动
+
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+
+## 代码规模
+
+合计: **12,124** 行代码（覆盖前 5 种语言、共 **108** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Python | 11,170 | 729 | 2,478 | 93 |
+| Json | 415 | 0 | 0 | 1 |
+| Sh | 238 | 52 | 68 | 5 |
+| Gherkin | 108 | 0 | 15 | 8 |
+| RPMSpecfile | 72 | 18 | 21 | 1 |
+
+## OpenSSF Scorecard 评分
+
+总评分: **2.1 / 10**
+
+评分最低的几项:
+
+- **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (-1/10) — No tokens found
+- **Code-Review** (4/10) — Found 7/17 approved changesets -- score normalized to 4
+
+## 改进这些数据
+
+mssql-cli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `mssql-cli` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
+
+- **提交 issue**: <https://github.com/x-cmd/install/issues/new>
+- **编辑包条目**: <https://github.com/x-cmd/install/edit/main/mssql-cli.yml>（或索引实际使用的路径）
+
+本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
+
+_数据快照: `data/card/260910.yml` · 2026-09-10T04:45:10Z._
